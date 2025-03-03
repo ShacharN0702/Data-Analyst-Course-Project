@@ -1,9 +1,3 @@
-# Data-Analyst-Course-Project
-Analyzing Denver crime database (csv) using Python for cleaning, and Tableau for visualizations to uncover trends and insights.
-
-
-
-
 # Final Project – Data Analyst Course
 This project is the final task of a 3-month Data Analyst course, where I analyzed crime data in Denver using Python (Panda, Numpy) and Tableau.
 
