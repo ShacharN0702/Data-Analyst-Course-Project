@@ -1,4 +1,4 @@
-# Final Project – Data Analyst Course
+# Final Project– Data Analyst Course
 This project is the final task of a 3-month Data Analyst course, where I analyzed crime data in Denver using Python (Panda, Numpy) and Tableau.
 
 # Project Overview
